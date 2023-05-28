@@ -23,7 +23,7 @@ This challenge dived into a lot of things that pushed my knowledge and understan
 
 The application is deployed to Heroku, at the link below:
 
-[editNow]()
+[editNow](https://mighty-ravine-47230.herokuapp.com/)
 
 ## Usage
 
